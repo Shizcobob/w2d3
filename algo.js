@@ -14,6 +14,7 @@ class BSTNode {
        * be connected to two other nodes. To start, new nodes will not be
        * connected to any other nodes, these properties will be set after
        * the new node is instantiated.
+       Hello
        *
        * @type {BSTNode|null}
        */
